@@ -7,7 +7,7 @@ Personal agents and skills.
 | Name | Repository | Description |
 |------|------------|-------------|
 | planner | [./agents/planner](./agents/planner) | Generate Plan |
-| general-executor | [./agents/general-executor](./agents/general-executor) | General executor |
+| executor | [./agents/executor](./agents/executor) | General executor |
 | code-reviewer | [./agents/code-reviewer](./agents/code-reviewer) | Expert code reviewer |
 | frontend-developer | [./agents/frontend-developer](./agents/frontend-developer) | Expert frontend developer |
 
